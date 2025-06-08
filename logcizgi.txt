@@ -1,0 +1,5 @@
+2025-04-09 17:00 - matplotlib kütüphanesi ile grafik oluşturuldu.
+2025-04-09 17:02 - 4 farklı nokta scatter plot ile gösterildi.
+2025-04-09 17:04 - Noktalar arasında çizgiler çizildi.
+2025-04-09 17:05 - X ve Y eksenlerine oklar eklendi.
+2025-04-09 17:06 - Grafik ekranda gösterildi.

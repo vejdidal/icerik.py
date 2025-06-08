@@ -1,0 +1,1 @@
+Hafta 3: matplotlib ile scatter plot oluşturdum, noktalar arası çizgiler ve eksen okları ekledim. Grafik başarılı şekilde görüntülendi.
